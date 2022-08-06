@@ -1,0 +1,1 @@
+ul.social-list>li.social-item*5>a.social-link>img.social-logo
